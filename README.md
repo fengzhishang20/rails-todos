@@ -35,3 +35,6 @@ git push -u origin master
 
 https://github.com/fengzhishang20/rails-todos.git
 git@github.com:fengzhishang20/rails-todos.git
+
+git config --global user.email "fengzhishang20@gmail.com"
+git config --global user.name "fengzhishang20"
